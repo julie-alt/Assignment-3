@@ -4,7 +4,11 @@
 
 @font-face {
   font-family: 'Lato-Thin';
-  src: url(/FONTS/Lato-Thin.ttf);
+  src: url(./Lato-Thin.ttf);
+}
+@font-face {
+  font-family: 'Lato';
+  src: url(./Lato-Regular.ttf);
 }
 
 header {
@@ -326,7 +330,7 @@ h2 {
   left: 311px;
   margin-right: 1px;
   margin-bottom: -10px;
-  margin-top: px;
+
 }
 
 input {
